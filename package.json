@@ -1,0 +1,19 @@
+{
+  "name": "bladesfolio",
+  "version": "1.0.0",
+  "description": "bladesfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bladesfolio/bladesfolio.git"
+  },
+  "author": "Spencer Blades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bladesfolio/bladesfolio/issues"
+  },
+  "homepage": "https://github.com/bladesfolio/bladesfolio#readme"
+}
